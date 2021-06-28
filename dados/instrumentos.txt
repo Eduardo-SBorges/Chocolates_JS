@@ -1,0 +1,8 @@
+Vox;Harpa;2000.00
+Boss;Flauta;200.00
+Vox;Flauta;250.00
+Vox;Violão;905.55
+Roland;Violão;500.00
+D'Addario;Saxofone;750.90
+Condor;Harpa;1805.00
+D'Addario;Tambor;280.00
