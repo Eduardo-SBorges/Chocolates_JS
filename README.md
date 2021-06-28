@@ -1,8 +1,8 @@
 INSTALAÇÃO
 
-1. Salvar localmente as pastas.
-2. Executar o arquivo logica_proposicional.js (abrir com o aplitivo node.js ou Visual Studio Code).
-3. Executar o comando: node logica_proposional
+1. Salvar localmente os arquivos.
+2. Executar o arquivo chocolate.js (abrir com o aplitivo node.js ou Visual Studio Code).
+3. Executar o comando: node chocolate
 
 Exemplo de uso do programa:
 
