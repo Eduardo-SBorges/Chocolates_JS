@@ -1,8 +1,9 @@
 INSTALAÇÃO
 
-1. Salvar localmente os arquivos.
-2. Executar o arquivo chocolate.js (abrir com o aplitivo node.js ou Visual Studio Code).
-3. Executar o comando: node chocolate
+1. Ter instalado na o node.js (https://nodejs.org/en/)
+2. Salvar localmente os arquivos.
+3. Executar o arquivo chocolate.js (abrir com o aplitivo node.js ou Visual Studio Code).
+4. Executar na linha de comando o comando: node chocolate
 
 Exemplo de uso do programa:
 
